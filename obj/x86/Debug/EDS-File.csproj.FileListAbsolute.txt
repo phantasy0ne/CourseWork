@@ -1,0 +1,18 @@
+C:\Documents and Settings\075033-1080\Мои документы\SharpDevelop Projects\EDS-File\EDS-File\bin\Debug\EDS-File.exe
+C:\Documents and Settings\075033-1080\Мои документы\SharpDevelop Projects\EDS-File\EDS-File\bin\Debug\EDS-File.pdb
+C:\Documents and Settings\075033-1080\Мои документы\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\075033-1080\Мои документы\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\EDS_File.MainForm.resources
+C:\Documents and Settings\075033-1080\Мои документы\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\075033-1080\Мои документы\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\075033-1080\Мои документы\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\EDS-File.exe
+C:\Documents and Settings\075033-1080\Мои документы\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\EDS-File.pdb
+C:\Users\Артём\Documents\SharpDevelop Projects\EDS-File\EDS-File\bin\Debug\EDS-File.exe
+C:\Users\Артём\Documents\SharpDevelop Projects\EDS-File\EDS-File\bin\Debug\EDS-File.pdb
+C:\Users\Артём\Documents\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Артём\Documents\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\EDS_File.MainForm.resources
+C:\Users\Артём\Documents\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Артём\Documents\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Артём\Documents\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\EDS-File.exe
+C:\Users\Артём\Documents\SharpDevelop Projects\EDS-File\EDS-File\obj\x86\Debug\EDS-File.pdb
+C:\Users\Phenom\Desktop\EDS-File\obj\x86\Debug\EDS-File.exe
+C:\Users\Phenom\Desktop\EDS-File\obj\x86\Debug\EDS-File.pdb
